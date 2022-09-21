@@ -95,6 +95,9 @@ section .title::before{
 .navbar.sticky .menu li a:hover{
     color: #fff;
 }
+p {
+    padding-bottom: 20px;
+    }
 
 /* menu btn styling */
 .menu-btn{
@@ -139,8 +142,8 @@ section .title::before{
     width: 45%;
 }
 .about .about-content .left img{
-    height: 400px;
-    width: 400px;
+    height: 460px;
+    width: 350px;
     object-fit: cover;
     border-radius: 6px;
 }
@@ -171,7 +174,7 @@ section .title::before{
     transition: all 0.3s ease;
 }
 .about .about-content .right a:hover{
-    color: crimson;
+    color: rgb(220, 73, 20);
     background: none;
 }
 
