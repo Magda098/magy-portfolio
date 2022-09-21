@@ -133,7 +133,7 @@ section .title::before{
  
 /* about section styling */
 .about .title::after{
-    content: " - who I am";
+    content: " - So,who am I?";
 }
 .about .about-content .left{
     width: 45%;
