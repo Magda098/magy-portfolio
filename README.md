@@ -2,7 +2,7 @@
 
 #### By _**{Magda}**_
 
-#### https://github.com/Magda098/magy-portfolio/
+#### https://magda098.github.io/magy-portfolio/
 
 ## Technologies Used
 
